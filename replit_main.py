@@ -1,6 +1,6 @@
 from threading import Thread
 
-from flask import Flask
+import Flask
 
 from bot import run_bot
 
